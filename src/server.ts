@@ -12,7 +12,7 @@ const app :Application =  express();
 //const originUrl: string = 'https://survey-app-frontend-red.vercel.app';
  //const originUrl: string = 'http://localhost:5173';
  const originUrl :string  = "https://survey-typescript-frontend.vercel.app"
-
+ 
 const corsOptions: CorsOptions = {
     origin:originUrl,
     credentials: true,
