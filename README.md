@@ -27,5 +27,5 @@ Before running the backend, make sure you have the following installed:
 1. Clone the backend repository:
 
    ```bash
-   git clone <backend-repository-url>
+   git clone https://github.com/Arjunr1234/Survey_Typescript_backend.git
    cd backend_survey
